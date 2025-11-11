@@ -1,8 +1,6 @@
 # CAN Based Digital Twin of Electric Vehicle ECU System
 MATLAB/Simulink-based digital twin of an Electric Vehicle ECU system. Features PID speed control, Stateflow-based mode management (Idle, Accel, Cruise, Decel), and CAN bus data communication for controller validation.
 
-# CAN-Based Digital Twin of Electric Vehicle ECU System
-
 This project presents a **CAN-based digital twin** of an **Electric Vehicle (EV) ECU System**, modeled and simulated in **MATLAB/Simulink**.  
 The system integrates **PID-based speed control**, **Stateflow-based driving mode logic**, and **CAN bus communication** for real-time signal exchange between control units.
 
