@@ -18,4 +18,4 @@ The digital twin consists of the following major subsystems:
 
 ## 🧠 Control Algorithm
 
-The PID controller parameters are tuned using the **Ziegler–Nichols method**, achieving stable tracking with minimal overshoot and settling time.
+The PID controller parameters are tuned using the **Ziegler–Nichols method**
